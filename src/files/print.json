@@ -1,0 +1,25 @@
+{
+  "name": "fib.rinha",
+  "expression": {
+    "kind": "Print",
+    "value": {
+      "kind": "Str",
+      "value": "ola, mundo",
+      "location": {
+        "start": 6,
+        "end": 18,
+        "filename": "fib.rinha"
+      }
+    },
+    "location": {
+      "start": 0,
+      "end": 19,
+      "filename": "fib.rinha"
+    }
+  },
+  "location": {
+    "start": 0,
+    "end": 19,
+    "filename": "fib.rinha"
+  }
+}
